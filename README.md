@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**mJR-exe/mJR-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:house_with_garden: I’m from Brazil.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mJR-exe)](https://github.com/mJR-exe)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjrsf/)](https://www.linkedin.com/in/mjrsf/)
+
+[![mJR-exe GitHub stats](https://github-readme-stats.vercel.app/api?username=mJR-exe)](https://github.com/mJR-exe/github-readme-stats)
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="100%">
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
