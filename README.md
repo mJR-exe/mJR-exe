@@ -1,7 +1,7 @@
 
 # Olá, me chamo Maurício Júnior! 
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Lavras 
-- 👨‍💻 Mais de 3 anos de experiência na área de desenvolvimento
+- 👨‍💻 Mais de 4 anos de experiência na área de desenvolvimento
 - 🎨 Habilidades com design e demais
   
 ### Linguagens de Programação
